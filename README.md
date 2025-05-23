@@ -1,8 +1,11 @@
 # my_portfolio
 
-Muhammad Arif Rahman. 
-2023807005.
-Software Engineering.
+Muhammad Arif Rahman
+
+2023807005
+
+Software Engineering
+
 5
 
 ## Getting Started
